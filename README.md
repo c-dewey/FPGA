@@ -7,3 +7,6 @@ Using my PYNQ Z2 FPGA (Field Programmable Gate Array), I utilized the Verilog HD
 LED LD4 would emit blue light.
 
 This basic project shows my first foray into electrical hardware development. I created a physical circuit and specified the necessary voltages.
+
+(all Vivado files are located in the project_3 folder)
+
